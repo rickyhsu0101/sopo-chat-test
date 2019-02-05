@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1081451926338",
+    "firebase_url": "https://chatusers-f1172.firebaseio.com",
+    "project_id": "chatusers-f1172",
+    "storage_bucket": "chatusers-f1172.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081451926338:android:202dddd311f8b2fe",
+        "android_client_info": {
+          "package_name": "jain.neel.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081451926338-44i9tn962dpm63mhou441s8gh4la4tgv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb5fJtEAQyeFdr-qkdg1VFl5M1mPQKfPk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
